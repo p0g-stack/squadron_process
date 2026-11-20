@@ -1,5 +1,7 @@
 # squadron_process
 
+> **Moved.** This package now lives in [p0g-stack/p0g at `pkgs/squadron_process`](https://github.com/p0g-stack/p0g/tree/main/pkgs/squadron_process), with this history imported. Its Squadron patches are in [`third_party/squadron`](https://github.com/p0g-stack/p0g/tree/main/third_party/squadron). This repository is archived; commits pinned by existing consumers stay available.
+
 > **Unofficial.** This package is not part of Squadron and is not affiliated
 > with or endorsed by Squadron's author. It needs a small patch to Squadron
 > (see [Squadron patch](#squadron-patch)) until an equivalent hook exists
